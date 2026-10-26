@@ -17,7 +17,7 @@ const dishes = [
     price: 18,
     description:
       "Fragrant basmati rice layered with tender chicken, warming spices and golden onions.",
-    image: "https://images.unsplash.com/photo-1563379091339-03246963d96c?auto=format&fit=crop&w=900&q=85",
+    image: "/biryani.jpg",
     tag: "HOUSE FAVOURITE",
   },
   {
